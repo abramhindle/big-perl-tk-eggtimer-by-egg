@@ -1,0 +1,2 @@
+#!/bin/sh
+perl ~/scripts/eggtimer.pl ~/scripts/timesup.sh
